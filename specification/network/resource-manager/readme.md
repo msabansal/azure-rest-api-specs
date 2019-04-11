@@ -43,6 +43,7 @@ input-file:
   - Microsoft.Network/stable/2018-12-01/availableDelegations.json
   - Microsoft.Network/stable/2018-12-01/azureFirewall.json
   - Microsoft.Network/stable/2018-12-01/azureFirewallFqdnTag.json
+  - Microsoft.Network/stable/2018-12-01/bastionHost.json
   - Microsoft.Network/stable/2018-12-01/checkDnsAvailability.json
   - Microsoft.Network/stable/2018-12-01/ddosCustomPolicy.json
   - Microsoft.Network/stable/2018-12-01/ddosProtectionPlan.json
@@ -86,6 +87,7 @@ input-file:
   - Microsoft.Network/stable/2018-12-01/availableDelegations.json
   - Microsoft.Network/stable/2018-12-01/azureFirewall.json
   - Microsoft.Network/stable/2018-12-01/azureFirewallFqdnTag.json
+  - Microsoft.Network/stable/2018-12-01/bastionHost.json
   - Microsoft.Network/stable/2018-12-01/checkDnsAvailability.json
   - Microsoft.Network/stable/2018-12-01/ddosCustomPolicy.json
   - Microsoft.Network/stable/2018-12-01/ddosProtectionPlan.json
