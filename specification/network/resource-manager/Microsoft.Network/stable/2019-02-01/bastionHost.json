@@ -263,9 +263,6 @@
                 "Get Bastion Host for a given vnet":{  
                    "$ref":"./examples/BastionHostListByVnet.json"
                 }
-             },
-             "x-ms-pageable":{  
-                "nextLinkName":"nextLink"
              }
           }
        }
@@ -362,7 +359,7 @@
           },
           "allOf":[  
              {  
-                "$ref":"./network.json#/definitions/Resource"
+               "$ref": "./network.json#/definitions/Resource"
              }
           ],
           "description":"Bastion Host resource"
